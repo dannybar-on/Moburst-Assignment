@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"mBAIAA,SAASC,cAAc,MAAMC,YADZ,wB","sources":["webpack://test/./src/index.js"],"sourcesContent":["import './style.scss';\r\nimport './woof.css';\r\n\r\nconst headline = 'Welcome to the webpage';\r\ndocument.querySelector('h1').textContent = headline;\r\n"],"names":["document","querySelector","textContent"],"sourceRoot":""}
